@@ -1,0 +1,42 @@
+npm warn deprecated @cloudflare/next-on-pages@1.13.16: Please use the OpenNext adapter instead: https://opennext.js.org/cloudflare
+
+removed 328 packages, changed 1 package, and audited 265 packages in 5s
+
+69 packages are looking for funding
+  run `npm fund` for details
+
+6 vulnerabilities (1 low, 3 moderate, 2 high)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues possible (including breaking changes), run:
+  npm audit fix --force
+
+Some issues need review, and may require choosing
+a different dependency.
+
+Run `npm audit` for details.
+⚡️ @cloudflare/next-on-pages CLI v.1.13.16
+
+⚡️ Warning: It seems like you're on a Windows system, the Vercel CLI (run by @cloudflare/next-on-pages
+⚡️ to build your application) seems not to work reliably on Windows so if you experience issues during
+⚡️ the build process please try switching to a different operating system or running
+⚡️ @cloudflare/next-on-pages under the Windows Subsystem for Linux
+
+EXIT WHEN NOT EXPECTED
+
+SHELLAC COMMAND FAILED!
+Executing: npm --version in C:\Users\Lenovo\Downloads\01\99\e\data3fez
+
+STDOUT:
+
+
+
+STDERR:
+
+/bin/bash: line 1: cd: C:\Users\Lenovo\Downloads\01\99\e\data3fez: No such file or directory
+
+
+⚡️ Unexpected error: {"retCode":1,"cmd":"npm --version","stdout":"","stderr":"/bin/bash: line 1: cd: C:\\Users\\Lenovo\\Downloads\\01\\99\\e\\data3fez: No such file or directory
+⚡️ "}
